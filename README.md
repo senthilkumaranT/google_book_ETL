@@ -1,4 +1,4 @@
-![Project Screenshot](images/WhatsApp Image 2025-12-07 at 13.16.12_c2be6901.jpg)
+<img src="images/WhatsApp Image 2025-12-07 at 13.16.12_c2be6901.jpg" alt="Project Screenshot" width="800">
 
 # Google Books ETL Pipeline with Apache Airflow
 
@@ -355,4 +355,5 @@ For issues or questions:
 ---
 
 **Happy ETL-ing! 🚀**
+
 
