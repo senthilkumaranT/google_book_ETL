@@ -1,0 +1,18 @@
+# Google Books ETL Pipeline - Python Dependencies
+# Note: Most packages are included in the Airflow Docker image
+# This file is for reference and local development
+
+# Core dependencies (included in apache/airflow:3.1.1)
+# apache-airflow>=3.1.1
+# apache-airflow-providers-postgres>=5.0.0
+
+# Additional packages used in DAGs
+requests>=2.31.0
+pandas>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+
